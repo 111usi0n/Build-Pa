@@ -1,7 +1,4 @@
-
 name: Build Padavan for Xiaomi Router 3G
-
-
 on:
   release:
     types: published
