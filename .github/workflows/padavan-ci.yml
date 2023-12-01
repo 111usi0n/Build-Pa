@@ -1,7 +1,5 @@
 
 name: Build Padavan for Xiaomi Router 3G
-on:
-  workflow_dispatch:
 
 
 on:
